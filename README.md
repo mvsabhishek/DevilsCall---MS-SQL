@@ -6,7 +6,7 @@ The objective of our project is to develop a comprehensive student event evite a
 
 ## TECHNOLOGY:
 
-SQL Server Management Studio, MS-SQL Server, Python Django, MySQL
+SQL Server Management Studio, MS-SQL Server
 
 ## REQUIREMENTS:
 
