@@ -23,3 +23,7 @@ SQL Server Management Studio, MS-SQL Server
 11.	List of invitees– This consists of a list of all people invited 
 12.	Event details – This consists of all information about the event like date, venue, organizer and many more
 13.	List of events - This gives us the list of all planned events for the user.
+
+## DATABASE DESIGN
+
+![ERD Diagram](https://github.com/mvsabhishek/DevilsCall/)
