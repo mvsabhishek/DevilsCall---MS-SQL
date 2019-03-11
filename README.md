@@ -26,4 +26,4 @@ SQL Server Management Studio, MS-SQL Server
 
 ## DATABASE DESIGN
 
-![ERD Diagram](https://github.com/mvsabhishek/DevilsCall/)
+![ERD Diagram](https://github.com/mvsabhishek/DevilsCall/blob/master/ERD.png)
